@@ -1,6 +1,6 @@
 # Bienvenue sur mon premier site
 Ceci est un site internet expérimental.
-Ceci est la version "commentaire"
+Ceci est la version "commentaire" modifiée
 
 1. un
 2. deux
